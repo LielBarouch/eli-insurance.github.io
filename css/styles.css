@@ -10504,14 +10504,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding-left: 30px;
 }
 
-.page-section:hover .col-md-6{
+.page-section:hover #gilui,#amana{
   filter:blur(3px);
   opacity:.5;
   transform: scale(.98);
   box-shadow:none;
 }
 
-.page-section:hover .col-md-6:hover{
+.page-section:hover #gilui:hover,#amana:hover{
   transform:scale(1);
   filter:blur(0px);
   opacity:1;
